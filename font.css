@@ -1,0 +1,48 @@
+@font-face {
+    font-family: sahel;
+    src: url("fonts/Sahel.woff2")format("woff2");
+}
+
+@font-face {
+    font-family: sahel;
+    src: url("fonts/Sahel.woff")format("woff");
+}
+
+@font-face {
+    font-family: sahel;
+    src: url("fonts/Sahel.ttf")format("ttf");
+}
+
+@font-face {
+    font-family: sahel;
+    src: url("fonts/Sahel.eot")format("eot");
+}  
+.p{
+    font-family: sahel;
+}
+label{
+    font-family: sahel;
+
+}
+
+.topnav{
+font-family: sahel;
+}
+@font-face {
+    font-family: homa;
+    src: url("fonts/pixelboy-BHoma.eot")format("eot");}
+
+    @font-face {
+        font-family: homa;
+        src: url("fonts/pixelboy-BHoma.ttf")format("tff");}
+        @font-face {
+            font-family: homa;
+            src: url("fonts/pixelboy-BHoma.woff")format("woff");}
+
+
+
+.am{
+font-family: homa;
+}
+
+
